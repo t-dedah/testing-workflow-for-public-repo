@@ -40,4 +40,4 @@ jobs:
         id: cache
         with:
           path: .
-          key: cache_504
+          key: cache_505
